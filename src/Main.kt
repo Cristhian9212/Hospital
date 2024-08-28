@@ -29,7 +29,7 @@ fun main() {
                 val direccionPaciente = scanner.nextLine()
                 println("Ciudad:")
                 val ciudadPaciente = scanner.nextLine()
-                println("Número de historia clínica:")cls
+                println("Número de historia clínica:")
                 val historiaPaciente = scanner.nextLine()
                 println("Sexo:")
                 val sexoPaciente = scanner.nextLine()
